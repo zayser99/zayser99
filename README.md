@@ -2,7 +2,7 @@
 - 👀 I’m interested in mobile developing.
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on mobile projects.
-- 📫 How to reach me my facebook page https://www.facebook.com/ZAYSERcode and my email zayser99@hotmail.com
+- 📫 How to reach me my facebook page https://www.facebook.com/ZAYSERcode 
 
 <!---
 zayser99/zayser99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
